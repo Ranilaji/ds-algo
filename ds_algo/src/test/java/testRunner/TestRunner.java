@@ -13,7 +13,7 @@ import io.cucumber.testng.CucumberOptions;
 						  "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 						  "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 						  },
-				  //tags= ("@array01"),
+				  tags= ("@Home"),
 				  dryRun = false
 				)
 @Test
