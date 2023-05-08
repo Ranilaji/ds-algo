@@ -12566,3 +12566,967 @@
 [INFO ] 2023-05-07 23:38:06.433 [main] Loggerload - The actual output in TextEditor:[4, 9, 9, 49, 121]
 [INFO ] 2023-05-07 23:38:06.469 [main] Loggerload - Navigating back to the previous page
 [INFO ] 2023-05-07 23:38:06.476 [main] Loggerload - Closing the driver
+[INFO ] 2023-05-08 00:39:27.707 [main] Loggerload - Loading Config file
+[INFO ] 2023-05-08 00:39:27.711 [main] Loggerload - Testing in Chrome
+[INFO ] 2023-05-08 00:39:29.970 [main] Loggerload - Initializing driver for : chrome
+[INFO ] 2023-05-08 00:39:30.374 [main] Loggerload - [@Home] : The user should be able to open the Ds-Algo portal home page
+[INFO ] 2023-05-08 00:39:30.401 [main] Loggerload - User is on DS Algo portal page
+[INFO ] 2023-05-08 00:39:30.815 [main] Loggerload - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-05-08 00:39:31.237 [main] Loggerload - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-05-08 00:39:31.403 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:39:31.406 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:39:31.604 [main] Loggerload - click Get Startedlink on  DataStructures 
+[INFO ] 2023-05-08 00:39:31.954 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:39:31.987 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:39:31.989 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:39:32.130 [main] Loggerload - click Get Startedlink on Array 
+[INFO ] 2023-05-08 00:39:32.428 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:39:32.469 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:39:32.472 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:39:32.647 [main] Loggerload - click Get Startedlink on LinkedList
+[INFO ] 2023-05-08 00:39:32.970 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:39:32.999 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:39:33.001 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:39:33.120 [main] Loggerload - click Get Startedlink on stack
+[INFO ] 2023-05-08 00:39:33.428 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:39:33.452 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:39:33.453 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:39:33.609 [main] Loggerload - click Get Startedlink on queue 
+[INFO ] 2023-05-08 00:39:33.901 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:39:33.929 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:39:33.930 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:39:34.082 [main] Loggerload - click Get Startedlink on Tree 
+[INFO ] 2023-05-08 00:39:34.418 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:39:34.446 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:39:34.447 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:39:34.598 [main] Loggerload - click Get Startedlink on Graph 
+[INFO ] 2023-05-08 00:39:34.959 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:39:34.991 [main] Loggerload - [@Home] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-05-08 00:39:35.118 [main] Loggerload - User clicks on dropdown without login
+[INFO ] 2023-05-08 00:39:37.635 [main] Loggerload - [@Home] : User is on Home page and click on sign in
+[INFO ] 2023-05-08 00:39:37.749 [main] Loggerload - User clicks on Sign in 
+[INFO ] 2023-05-08 00:39:38.027 [main] Loggerload - Title of current page is : Login
+[INFO ] 2023-05-08 00:39:38.068 [main] Loggerload - [@Home] : User is on Home page and click on Register
+[INFO ] 2023-05-08 00:39:38.204 [main] Loggerload - User clicks on Register 
+[INFO ] 2023-05-08 00:39:38.440 [main] Loggerload - User redirected to Registraion page 
+[INFO ] 2023-05-08 00:39:38.456 [main] Loggerload - Title of current page is : Registration
+[INFO ] 2023-05-08 00:39:38.611 [main] Loggerload - [@Register] : Navigating  to register page from ds-algo portal
+[INFO ] 2023-05-08 00:39:39.030 [main] Loggerload - The user opens Register Page
+[INFO ] 2023-05-08 00:39:39.303 [main] Loggerload - [@Register] : Navigating to Login page from Register page
+[INFO ] 2023-05-08 00:39:39.644 [main] Loggerload - [@Register01] : Successful registration with valid username and password
+[INFO ] 2023-05-08 00:39:40.086 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:39:41.277 [main] Loggerload - User redirected to Homepage 
+[INFO ] 2023-05-08 00:39:41.314 [main] Loggerload - Title of current page is : password_mismatch:The two password fields didn’t match.
+[ERROR] 2023-05-08 00:39:41.331 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:39:41.556 [main] Loggerload - [@Register] : Validating registration with empty fields
+[INFO ] 2023-05-08 00:39:41.758 [main] Loggerload - The user do not enter any values
+[INFO ] 2023-05-08 00:39:41.769 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:39:41.873 [main] Loggerload - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-05-08 00:39:41.988 [main] Loggerload - [@Register] : Validating registration with valid username and empty password field
+[INFO ] 2023-05-08 00:39:42.124 [main] Loggerload - The user enter valid username with other fields empty
+[INFO ] 2023-05-08 00:39:42.124 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:39:42.193 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:39:43.406 [main] Loggerload - Error message is displayed Please fill out this field. an error below Password textbox
+[INFO ] 2023-05-08 00:39:43.525 [main] Loggerload - [@Register] : Validating registration with valid username, Password and empty password confirmation field
+[INFO ] 2023-05-08 00:39:43.695 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:39:43.776 [main] Loggerload - The user enter password as : temp12!@
+[INFO ] 2023-05-08 00:39:43.890 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:39:45.059 [main] Loggerload - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-05-08 00:39:45.136 [main] Loggerload - [@Register] : Validate password mismatch
+[INFO ] 2023-05-08 00:39:45.293 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:39:45.404 [main] Loggerload - The user enter password as : temp12!@
+[INFO ] 2023-05-08 00:39:45.516 [main] Loggerload - The user enter confirm password as : test1212
+[INFO ] 2023-05-08 00:39:45.623 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:39:46.883 [main] Loggerload - [@Register03] : Validating registration with valid Password, Password  confirmation field and empty Username field
+[INFO ] 2023-05-08 00:39:47.203 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:39:47.395 [main] Loggerload - [@Login] : Navigating to Login Page from ds algo portal
+[INFO ] 2023-05-08 00:39:49.968 [main] Loggerload - User is on Sigin Page
+[INFO ] 2023-05-08 00:39:50.000 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:39:52.058 [main] Loggerload - User Enter username as " utest_sdet03 "and Password as " test0000" 
+[INFO ] 2023-05-08 00:39:52.275 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:39:52.275 [main] Loggerload - Expected Message - Excel Sheet :  Invalid Username and Password
+[INFO ] 2023-05-08 00:39:54.566 [main] Loggerload - Actual Message :  Invalid Username and Password
+[INFO ] 2023-05-08 00:39:54.597 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:39:54.901 [main] Loggerload - User Enter username as " username "and Password as " Temp12!@" 
+[INFO ] 2023-05-08 00:39:55.153 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:39:55.153 [main] Loggerload - Expected Message - Excel Sheet :  Invalid Username and Password
+[INFO ] 2023-05-08 00:39:57.455 [main] Loggerload - Actual Message :  Invalid Username and Password
+[INFO ] 2023-05-08 00:39:57.484 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:39:57.689 [main] Loggerload - User Enter username as " utest_sdet00 "and Password as " temp12!@" 
+[INFO ] 2023-05-08 00:39:58.020 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:39:58.020 [main] Loggerload - Expected Message - Excel Sheet :  You are logged in
+[ERROR] 2023-05-08 00:40:07.611 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:07.654 [main] Loggerload - [@Login] : Validating Login with either of the password and username fields empty
+[ERROR] 2023-05-08 00:40:07.664 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:07.709 [main] Loggerload - [@Login] : Validating Login with either of the password and username fields empty
+[ERROR] 2023-05-08 00:40:07.716 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:07.765 [main] Loggerload - [@Login] : Validating signout
+[ERROR] 2023-05-08 00:40:07.773 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:07.821 [main] Loggerload - [@DataIntro] : Validating the Data Structure Introduction page feature
+[ERROR] 2023-05-08 00:40:07.837 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:08.384 [main] Loggerload - [@array01] : Validate Array page
+[ERROR] 2023-05-08 00:40:08.401 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:08.586 [main] Loggerload - [@array01] : Validate 'Arrays in Python' link
+[ERROR] 2023-05-08 00:40:08.707 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:08.845 [main] Loggerload - [@array01] : Validate 'Arrays Using List' link
+[ERROR] 2023-05-08 00:40:08.999 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:09.328 [main] Loggerload - [@array01] : Validate 'Basic Operations in List' link
+[ERROR] 2023-05-08 00:40:09.409 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:09.740 [main] Loggerload - [@array01] : Validate 'Applications of Array' link
+[ERROR] 2023-05-08 00:40:09.849 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:09.903 [main] Loggerload - [@array01] : Validate  python code for Arrays in Python TryEditor
+[ERROR] 2023-05-08 00:40:09.911 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:09.967 [main] Loggerload - [@array01] : Validation invalid python code for Arrays in Python TryEditor
+[ERROR] 2023-05-08 00:40:09.975 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:10.047 [main] Loggerload - [@array01] : Validate  python code for Arrays using List TryEditor
+[ERROR] 2023-05-08 00:40:10.055 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:10.095 [main] Loggerload - [@array01] : Validation invalid python code for Arrays using List TryEditor
+[ERROR] 2023-05-08 00:40:10.128 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:10.200 [main] Loggerload - [@array01] : Validate  python code for Basic Operations in List TryEditor
+[ERROR] 2023-05-08 00:40:10.214 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:10.273 [main] Loggerload - [@array01] : Validation invalid python code for Basic operations in List TryEditor
+[ERROR] 2023-05-08 00:40:10.289 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:10.363 [main] Loggerload - [@array01] : Validate  python code for Applications of Array TryEditor
+[ERROR] 2023-05-08 00:40:10.370 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:10.523 [main] Loggerload - [@array01] : Validation invalid python code for Applications of Array TryEditor
+[ERROR] 2023-05-08 00:40:10.556 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:10.670 [main] Loggerload - [@array01] : Validate 'Practice Questions' link
+[ERROR] 2023-05-08 00:40:10.679 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:10.718 [main] Loggerload - [@array01] : Validate TryEditor for 'Search for array' in Practice Questions
+[ERROR] 2023-05-08 00:40:10.727 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:10.856 [main] Loggerload - [@array01] : Validate TryEditor for 'Max consecutive ones' in Practice Questions
+[ERROR] 2023-05-08 00:40:10.870 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:10.922 [main] Loggerload - [@array01] : Validate TryEditor for 'Find Numbers with Even number of digits' in Practice Questions
+[ERROR] 2023-05-08 00:40:10.938 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:11.073 [main] Loggerload - [@array01] : Validate TryEditor for 'Squares of a sorted array' in Practice Questions
+[ERROR] 2023-05-08 00:40:11.077 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:11.214 [main] Loggerload - [@LinkedList01] : Validating the Linked List page features
+[ERROR] 2023-05-08 00:40:11.226 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:11.263 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor - Intro page
+[ERROR] 2023-05-08 00:40:11.426 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:11.575 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor - Intro page
+[ERROR] 2023-05-08 00:40:11.582 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:11.613 [main] Loggerload - [@LinkedList01] : Validating Creating Linked List link and its features
+[ERROR] 2023-05-08 00:40:11.619 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:11.701 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Creating Linked List -  page
+[ERROR] 2023-05-08 00:40:11.960 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:11.984 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Creating Linked List -  page
+[ERROR] 2023-05-08 00:40:11.992 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.034 [main] Loggerload - [@LinkedList01] : Validating Types of Linked List link and its features
+[ERROR] 2023-05-08 00:40:12.042 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.074 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Types of Linked List -  page
+[ERROR] 2023-05-08 00:40:12.188 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.341 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Types of Linked List -  page
+[ERROR] 2023-05-08 00:40:12.349 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.478 [main] Loggerload - [@LinkedList01] : Validating Implement Linked List in Python link and its features
+[ERROR] 2023-05-08 00:40:12.486 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.510 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Implement Linked List in Python page
+[ERROR] 2023-05-08 00:40:12.534 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.550 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Implement Linked List in Python page
+[ERROR] 2023-05-08 00:40:12.553 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.569 [main] Loggerload - [@LinkedList01] : Validating Traversal link and its features
+[ERROR] 2023-05-08 00:40:12.571 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.589 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Traversal page
+[ERROR] 2023-05-08 00:40:12.619 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.630 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Traversal page
+[ERROR] 2023-05-08 00:40:12.634 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.645 [main] Loggerload - [@LinkedList01] : Validating Insertion link and its features
+[ERROR] 2023-05-08 00:40:12.648 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.671 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Insertion page
+[ERROR] 2023-05-08 00:40:12.694 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.708 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Insertion page
+[ERROR] 2023-05-08 00:40:12.711 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.726 [main] Loggerload - [@LinkedList01] : Validating Deletion link and its features
+[ERROR] 2023-05-08 00:40:12.729 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.748 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Deletion page
+[ERROR] 2023-05-08 00:40:12.769 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.781 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Deletion page
+[ERROR] 2023-05-08 00:40:12.784 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.804 [main] Loggerload - [@stack] : Validate Stack page
+[ERROR] 2023-05-08 00:40:12.808 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.820 [main] Loggerload - [@stack] : Validate 'Operations in Stack' link
+[ERROR] 2023-05-08 00:40:12.824 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:12.835 [main] Loggerload - [@stack] : Validate  python code for 'Operations in Stack' tryEditor
+[ERROR] 2023-05-08 00:40:23.125 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.142 [main] Loggerload - [@stack] : Validation invalid python code for 'Operations in Stack' TryEditor
+[ERROR] 2023-05-08 00:40:23.146 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.167 [main] Loggerload - [@stack] : Validate 'Implementation' link
+[ERROR] 2023-05-08 00:40:23.173 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.199 [main] Loggerload - [@stack] : Validate  python code for 'Implementation' tryEditor
+[ERROR] 2023-05-08 00:40:23.203 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.223 [main] Loggerload - [@stack] : Validation invalid python code for 'Implementation' TryEditor
+[ERROR] 2023-05-08 00:40:23.227 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.244 [main] Loggerload - [@stack] : Validate 'Applications' link
+[ERROR] 2023-05-08 00:40:23.248 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.264 [main] Loggerload - [@stack] : Validate  python code for 'Applications' tryEditor
+[ERROR] 2023-05-08 00:40:23.268 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.290 [main] Loggerload - [@stack] : Validation invalid python code for 'Applications' TryEditor
+[ERROR] 2023-05-08 00:40:23.294 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.320 [main] Loggerload - [@Queue] : Validating the Queue page features
+[ERROR] 2023-05-08 00:40:23.325 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.346 [main] Loggerload - [@Queue] : Verifying valid code in the text editor - Implementation of Queue in Python
+[ERROR] 2023-05-08 00:40:23.383 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.401 [main] Loggerload - [@Queue] : Verifying invalid code in the text editor - Implementation of Queue in Python
+[ERROR] 2023-05-08 00:40:23.405 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.417 [main] Loggerload - [@Queue] : Validating Implementation using collections.deque and its features
+[ERROR] 2023-05-08 00:40:23.420 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.437 [main] Loggerload - [@Queue] : Verifying valid code in the text editor - Implementation using collections.deque
+[ERROR] 2023-05-08 00:40:23.458 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.475 [main] Loggerload - [@Queue] : Verifying invalid code in the text editor - Implementation using collections.deque
+[ERROR] 2023-05-08 00:40:23.480 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.495 [main] Loggerload - [@Queue] : Validating Implementation using array and its features
+[ERROR] 2023-05-08 00:40:23.499 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.517 [main] Loggerload - [@Queue] : Verifying valid code in the text editor - Implementation using array
+[ERROR] 2023-05-08 00:40:23.539 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.558 [main] Loggerload - [@Queue] : Verifying invalid code in the text editor - Implementation using array
+[ERROR] 2023-05-08 00:40:23.562 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.582 [main] Loggerload - [@Queue] : Validating Queue Operations and its features
+[ERROR] 2023-05-08 00:40:23.586 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.604 [main] Loggerload - [@Queue] : Verifying valid code in the text editor - Implementation using array
+[ERROR] 2023-05-08 00:40:23.639 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.658 [main] Loggerload - [@Queue] : Verifying invalid code in the text editor - Implementation using array
+[ERROR] 2023-05-08 00:40:23.661 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.706 [main] Loggerload - [@Tree] : Validating the Tree page features
+[ERROR] 2023-05-08 00:40:23.714 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.734 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Overview of Trees page
+[ERROR] 2023-05-08 00:40:23.759 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.777 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Overview of Trees page
+[ERROR] 2023-05-08 00:40:23.780 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.795 [main] Loggerload - [@Tree] : Validating Terminologies and its features
+[ERROR] 2023-05-08 00:40:23.799 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.812 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Terminologies page
+[ERROR] 2023-05-08 00:40:23.852 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.871 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Terminologies page
+[ERROR] 2023-05-08 00:40:23.877 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.895 [main] Loggerload - [@Tree] : Validating Types of Trees and its features
+[ERROR] 2023-05-08 00:40:23.899 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.915 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Types of Trees page
+[ERROR] 2023-05-08 00:40:23.936 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:23.976 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Types of Trees page
+[ERROR] 2023-05-08 00:40:23.980 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.007 [main] Loggerload - [@Tree] : Validating Tree Traversals and its features
+[ERROR] 2023-05-08 00:40:24.011 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.026 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Tree Traversals page
+[ERROR] 2023-05-08 00:40:24.044 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.059 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Tree Traversals page
+[ERROR] 2023-05-08 00:40:24.063 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.078 [main] Loggerload - [@Tree] : Validating Traversals-Illustration and its features
+[ERROR] 2023-05-08 00:40:24.083 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.101 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Traversals-Illustration page
+[ERROR] 2023-05-08 00:40:24.135 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.153 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Traversals-Illustration page
+[ERROR] 2023-05-08 00:40:24.158 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.176 [main] Loggerload - [@Tree] : Validating Binary Trees and its features
+[ERROR] 2023-05-08 00:40:24.180 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.195 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Binary Trees page
+[ERROR] 2023-05-08 00:40:24.226 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.241 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Binary Trees page
+[ERROR] 2023-05-08 00:40:24.245 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.265 [main] Loggerload - [@Tree] : Validating Types of Binary Trees and its features
+[ERROR] 2023-05-08 00:40:24.271 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.289 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Types of Binary Trees page
+[ERROR] 2023-05-08 00:40:24.313 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.334 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Types of Binary Trees page
+[ERROR] 2023-05-08 00:40:24.338 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.365 [main] Loggerload - [@Tree] : Validating Implementation in Python and its features
+[ERROR] 2023-05-08 00:40:24.369 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.388 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Implementation in Python page
+[ERROR] 2023-05-08 00:40:24.411 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.432 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Implementation in Python page
+[ERROR] 2023-05-08 00:40:24.438 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.457 [main] Loggerload - [@Tree] : Validating Binary Tree Traversals and its features
+[ERROR] 2023-05-08 00:40:24.462 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.482 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Binary Tree Traversals page
+[ERROR] 2023-05-08 00:40:24.513 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.528 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Binary Tree Traversals page
+[ERROR] 2023-05-08 00:40:24.532 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.548 [main] Loggerload - [@Tree] : Validating Implementation of Binary Trees and its features
+[ERROR] 2023-05-08 00:40:24.551 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.566 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Implementation of Binary Trees page
+[ERROR] 2023-05-08 00:40:24.583 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.602 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Implementation of Binary Trees page
+[ERROR] 2023-05-08 00:40:24.606 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.622 [main] Loggerload - [@Tree] : Validating Applications of Binary trees and its features
+[ERROR] 2023-05-08 00:40:24.626 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.641 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Applications of Binary trees page
+[ERROR] 2023-05-08 00:40:24.664 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.683 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Applications of Binary trees page
+[ERROR] 2023-05-08 00:40:24.687 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.704 [main] Loggerload - [@Tree] : Validating Binary Search Trees and its features
+[ERROR] 2023-05-08 00:40:24.708 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.730 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Binary Search Trees page
+[ERROR] 2023-05-08 00:40:24.755 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.770 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Binary Search Trees page
+[ERROR] 2023-05-08 00:40:24.773 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.788 [main] Loggerload - [@Tree] : Validating Implementation Of BST and its features
+[ERROR] 2023-05-08 00:40:24.792 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.812 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Implementation Of BST page
+[ERROR] 2023-05-08 00:40:24.841 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.859 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Implementation Of BST page
+[ERROR] 2023-05-08 00:40:24.864 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.885 [main] Loggerload - [@graph] : Validate Graph page
+[ERROR] 2023-05-08 00:40:24.891 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.910 [main] Loggerload - [@graph] : Validate 'Graph' link
+[ERROR] 2023-05-08 00:40:24.916 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.929 [main] Loggerload - [@graph] : Validate 'Graph Representations' link
+[ERROR] 2023-05-08 00:40:24.932 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.944 [main] Loggerload - [@graph] : Validate  python code for 'Graph' tryEditor
+[ERROR] 2023-05-08 00:40:24.948 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.962 [main] Loggerload - [@graph] : Validation invalid python code for 'Graph' TryEditor
+[ERROR] 2023-05-08 00:40:24.966 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:24.985 [main] Loggerload - [@graph] : Validate  python code for 'Graph Representations' tryEditor
+[ERROR] 2023-05-08 00:40:24.988 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:25.005 [main] Loggerload - [@graph] : Validation invalid python code for 'Graph Representations' TryEditor
+[ERROR] 2023-05-08 00:40:25.010 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:25.035 [main] Loggerload - [@graph] : Validate Practice Question link
+[ERROR] 2023-05-08 00:40:25.038 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:40:25.047 [main] Loggerload - Closing the driver
+[INFO ] 2023-05-08 00:41:27.143 [main] Loggerload - Loading Config file
+[INFO ] 2023-05-08 00:41:27.148 [main] Loggerload - Testing in Chrome
+[INFO ] 2023-05-08 00:41:28.925 [main] Loggerload - Initializing driver for : chrome
+[INFO ] 2023-05-08 00:41:29.295 [main] Loggerload - [@Home] : The user should be able to open the Ds-Algo portal home page
+[INFO ] 2023-05-08 00:41:29.315 [main] Loggerload - User is on DS Algo portal page
+[INFO ] 2023-05-08 00:41:29.677 [main] Loggerload - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-05-08 00:41:32.150 [main] Loggerload - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-05-08 00:41:32.255 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:41:32.256 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:41:32.384 [main] Loggerload - click Get Startedlink on  DataStructures 
+[INFO ] 2023-05-08 00:41:32.651 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:41:32.678 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:41:32.679 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:41:32.801 [main] Loggerload - click Get Startedlink on Array 
+[INFO ] 2023-05-08 00:41:33.057 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:41:33.089 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:41:33.092 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:41:33.212 [main] Loggerload - click Get Startedlink on LinkedList
+[INFO ] 2023-05-08 00:41:33.487 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:41:33.528 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:41:33.552 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:41:33.703 [main] Loggerload - click Get Startedlink on stack
+[INFO ] 2023-05-08 00:41:33.984 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:41:34.032 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:41:34.035 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:41:34.170 [main] Loggerload - click Get Startedlink on queue 
+[INFO ] 2023-05-08 00:41:34.436 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:41:34.477 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:41:34.477 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:41:34.621 [main] Loggerload - click Get Startedlink on Tree 
+[INFO ] 2023-05-08 00:41:34.953 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:41:35.028 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:41:35.028 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:41:35.205 [main] Loggerload - click Get Startedlink on Graph 
+[INFO ] 2023-05-08 00:41:35.522 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:41:35.550 [main] Loggerload - [@Home] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-05-08 00:41:35.658 [main] Loggerload - User clicks on dropdown without login
+[INFO ] 2023-05-08 00:41:38.109 [main] Loggerload - [@Home] : User is on Home page and click on sign in
+[INFO ] 2023-05-08 00:41:38.220 [main] Loggerload - User clicks on Sign in 
+[INFO ] 2023-05-08 00:41:38.550 [main] Loggerload - Title of current page is : Login
+[INFO ] 2023-05-08 00:41:38.599 [main] Loggerload - [@Home] : User is on Home page and click on Register
+[INFO ] 2023-05-08 00:41:38.770 [main] Loggerload - User clicks on Register 
+[INFO ] 2023-05-08 00:41:38.980 [main] Loggerload - User redirected to Registraion page 
+[INFO ] 2023-05-08 00:41:38.991 [main] Loggerload - Title of current page is : Registration
+[INFO ] 2023-05-08 00:41:39.125 [main] Loggerload - [@Register] : Navigating  to register page from ds-algo portal
+[INFO ] 2023-05-08 00:41:39.518 [main] Loggerload - The user opens Register Page
+[INFO ] 2023-05-08 00:41:39.757 [main] Loggerload - [@Register] : Navigating to Login page from Register page
+[INFO ] 2023-05-08 00:41:40.164 [main] Loggerload - [@Register01] : Successful registration with valid username and password
+[INFO ] 2023-05-08 00:41:40.753 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:41:42.000 [main] Loggerload - User redirected to Homepage 
+[INFO ] 2023-05-08 00:41:42.064 [main] Loggerload - Title of current page is : password_mismatch:The two password fields didn’t match.
+[ERROR] 2023-05-08 00:41:42.088 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:41:42.312 [main] Loggerload - [@Register] : Validating registration with empty fields
+[INFO ] 2023-05-08 00:41:42.494 [main] Loggerload - The user do not enter any values
+[INFO ] 2023-05-08 00:41:42.494 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:41:42.623 [main] Loggerload - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-05-08 00:41:42.710 [main] Loggerload - [@Register] : Validating registration with valid username and empty password field
+[INFO ] 2023-05-08 00:41:42.838 [main] Loggerload - The user enter valid username with other fields empty
+[INFO ] 2023-05-08 00:41:42.838 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:41:42.932 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:41:44.070 [main] Loggerload - Error message is displayed Please fill out this field. an error below Password textbox
+[INFO ] 2023-05-08 00:41:44.178 [main] Loggerload - [@Register] : Validating registration with valid username, Password and empty password confirmation field
+[INFO ] 2023-05-08 00:41:44.311 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:41:44.400 [main] Loggerload - The user enter password as : temp12!@
+[INFO ] 2023-05-08 00:41:44.501 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:41:45.618 [main] Loggerload - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-05-08 00:41:45.685 [main] Loggerload - [@Register] : Validate password mismatch
+[INFO ] 2023-05-08 00:41:45.817 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:41:45.917 [main] Loggerload - The user enter password as : temp12!@
+[INFO ] 2023-05-08 00:41:46.040 [main] Loggerload - The user enter confirm password as : test1212
+[INFO ] 2023-05-08 00:41:46.139 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:41:47.428 [main] Loggerload - [@Register03] : Validating registration with valid Password, Password  confirmation field and empty Username field
+[INFO ] 2023-05-08 00:41:47.673 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:41:47.793 [main] Loggerload - [@Login] : Navigating to Login Page from ds algo portal
+[INFO ] 2023-05-08 00:41:50.374 [main] Loggerload - User is on Sigin Page
+[INFO ] 2023-05-08 00:41:50.405 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:41:52.518 [main] Loggerload - User Enter username as " utest_sdet03 "and Password as " test0000" 
+[INFO ] 2023-05-08 00:41:52.763 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:41:52.763 [main] Loggerload - Expected Message - Excel Sheet :  Invalid Username and Password
+[INFO ] 2023-05-08 00:41:55.050 [main] Loggerload - Actual Message :  Invalid Username and Password
+[INFO ] 2023-05-08 00:41:55.073 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:41:55.284 [main] Loggerload - User Enter username as " username "and Password as " Temp12!@" 
+[INFO ] 2023-05-08 00:41:55.507 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:41:55.507 [main] Loggerload - Expected Message - Excel Sheet :  Invalid Username and Password
+[INFO ] 2023-05-08 00:41:57.814 [main] Loggerload - Actual Message :  Invalid Username and Password
+[INFO ] 2023-05-08 00:41:57.849 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:41:58.102 [main] Loggerload - User Enter username as " utest_sdet00 "and Password as " temp12!@" 
+[INFO ] 2023-05-08 00:41:58.498 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:41:58.498 [main] Loggerload - Expected Message - Excel Sheet :  You are logged in
+[ERROR] 2023-05-08 00:42:10.942 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:42:11.172 [main] Loggerload - [@Login] : Validating Login with either of the password and username fields empty
+[INFO ] 2023-05-08 00:42:11.351 [main] Loggerload - User Enter username as " user_sdet00 " and Password as " " 
+[INFO ] 2023-05-08 00:42:11.571 [main] Loggerload - Empty field value is validated
+[INFO ] 2023-05-08 00:42:11.571 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:42:11.718 [main] Loggerload - [@Login] : Validating Login with either of the password and username fields empty
+[INFO ] 2023-05-08 00:42:11.897 [main] Loggerload - User Enter username as "  " and Password as " temp12!@" 
+[INFO ] 2023-05-08 00:42:12.156 [main] Loggerload - Empty field value is validated
+[INFO ] 2023-05-08 00:42:12.156 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:42:12.305 [main] Loggerload - [@Login] : Validating signout
+[ERROR] 2023-05-08 00:42:22.447 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:42:22.784 [main] Loggerload - [@DataIntro] : Validating the Data Structure Introduction page feature
+[INFO ] 2023-05-08 00:42:23.570 [main] Loggerload - The user is in SignIn page
+[INFO ] 2023-05-08 00:42:23.919 [main] Loggerload - User clicks on login button
+[ERROR] 2023-05-08 00:42:34.417 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:42:34.911 [main] Loggerload - [@array01] : Validate Array page
+[INFO ] 2023-05-08 00:42:35.339 [main] Loggerload - Clicking on Get Started button from logged in HomePage
+[ERROR] 2023-05-08 00:42:35.356 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:42:35.560 [main] Loggerload - [@array01] : Validate 'Arrays in Python' link
+[INFO ] 2023-05-08 00:42:36.238 [main] Loggerload - Launching Array page
+[ERROR] 2023-05-08 00:42:46.297 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:42:46.700 [main] Loggerload - [@array01] : Validate 'Arrays Using List' link
+[INFO ] 2023-05-08 00:42:47.474 [main] Loggerload - Launching Array page
+[ERROR] 2023-05-08 00:42:57.548 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:42:57.774 [main] Loggerload - [@array01] : Validate 'Basic Operations in List' link
+[INFO ] 2023-05-08 00:42:58.590 [main] Loggerload - Launching Array page
+[ERROR] 2023-05-08 00:43:08.628 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:08.864 [main] Loggerload - [@array01] : Validate 'Applications of Array' link
+[INFO ] 2023-05-08 00:43:09.625 [main] Loggerload - Launching Array page
+[ERROR] 2023-05-08 00:43:10.625 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:10.675 [main] Loggerload - [@array01] : Validate  python code for Arrays in Python TryEditor
+[ERROR] 2023-05-08 00:43:10.679 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:10.718 [main] Loggerload - [@array01] : Validation invalid python code for Arrays in Python TryEditor
+[ERROR] 2023-05-08 00:43:10.726 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:10.775 [main] Loggerload - [@array01] : Validate  python code for Arrays using List TryEditor
+[ERROR] 2023-05-08 00:43:10.785 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:10.840 [main] Loggerload - [@array01] : Validation invalid python code for Arrays using List TryEditor
+[ERROR] 2023-05-08 00:43:10.848 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:10.896 [main] Loggerload - [@array01] : Validate  python code for Basic Operations in List TryEditor
+[ERROR] 2023-05-08 00:43:10.904 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:10.952 [main] Loggerload - [@array01] : Validation invalid python code for Basic operations in List TryEditor
+[ERROR] 2023-05-08 00:43:10.960 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:11.049 [main] Loggerload - [@array01] : Validate  python code for Applications of Array TryEditor
+[ERROR] 2023-05-08 00:43:11.057 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:11.138 [main] Loggerload - [@array01] : Validation invalid python code for Applications of Array TryEditor
+[ERROR] 2023-05-08 00:43:11.162 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:11.275 [main] Loggerload - [@array01] : Validate 'Practice Questions' link
+[ERROR] 2023-05-08 00:43:11.292 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:11.348 [main] Loggerload - [@array01] : Validate TryEditor for 'Search for array' in Practice Questions
+[ERROR] 2023-05-08 00:43:11.356 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:11.389 [main] Loggerload - [@array01] : Validate TryEditor for 'Max consecutive ones' in Practice Questions
+[ERROR] 2023-05-08 00:43:11.405 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:11.461 [main] Loggerload - [@array01] : Validate TryEditor for 'Find Numbers with Even number of digits' in Practice Questions
+[ERROR] 2023-05-08 00:43:11.477 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:11.614 [main] Loggerload - [@array01] : Validate TryEditor for 'Squares of a sorted array' in Practice Questions
+[ERROR] 2023-05-08 00:43:11.627 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:11.915 [main] Loggerload - [@LinkedList01] : Validating the Linked List page features
+[ERROR] 2023-05-08 00:43:11.931 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:11.982 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor - Intro page
+[ERROR] 2023-05-08 00:43:12.130 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:12.159 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor - Intro page
+[ERROR] 2023-05-08 00:43:12.168 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:12.194 [main] Loggerload - [@LinkedList01] : Validating Creating Linked List link and its features
+[ERROR] 2023-05-08 00:43:12.201 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:12.226 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Creating Linked List -  page
+[ERROR] 2023-05-08 00:43:12.312 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:12.344 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Creating Linked List -  page
+[ERROR] 2023-05-08 00:43:12.352 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:12.408 [main] Loggerload - [@LinkedList01] : Validating Types of Linked List link and its features
+[ERROR] 2023-05-08 00:43:12.416 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:12.477 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Types of Linked List -  page
+[ERROR] 2023-05-08 00:43:12.709 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:12.782 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Types of Linked List -  page
+[ERROR] 2023-05-08 00:43:12.791 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:12.823 [main] Loggerload - [@LinkedList01] : Validating Implement Linked List in Python link and its features
+[ERROR] 2023-05-08 00:43:12.832 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:12.897 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Implement Linked List in Python page
+[ERROR] 2023-05-08 00:43:13.163 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:13.195 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Implement Linked List in Python page
+[ERROR] 2023-05-08 00:43:13.198 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:13.220 [main] Loggerload - [@LinkedList01] : Validating Traversal link and its features
+[ERROR] 2023-05-08 00:43:13.229 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:13.302 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Traversal page
+[ERROR] 2023-05-08 00:43:13.479 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:13.519 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Traversal page
+[ERROR] 2023-05-08 00:43:13.519 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:13.551 [main] Loggerload - [@LinkedList01] : Validating Insertion link and its features
+[ERROR] 2023-05-08 00:43:13.562 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:13.584 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Insertion page
+[ERROR] 2023-05-08 00:43:13.765 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:13.925 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Insertion page
+[ERROR] 2023-05-08 00:43:13.941 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:13.974 [main] Loggerload - [@LinkedList01] : Validating Deletion link and its features
+[ERROR] 2023-05-08 00:43:13.974 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:13.999 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Deletion page
+[ERROR] 2023-05-08 00:43:14.048 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:14.075 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Deletion page
+[ERROR] 2023-05-08 00:43:14.081 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:14.111 [main] Loggerload - [@stack] : Validate Stack page
+[ERROR] 2023-05-08 00:43:14.115 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:14.148 [main] Loggerload - [@stack] : Validate 'Operations in Stack' link
+[ERROR] 2023-05-08 00:43:14.164 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:14.220 [main] Loggerload - [@stack] : Validate  python code for 'Operations in Stack' tryEditor
+[ERROR] 2023-05-08 00:43:24.505 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.538 [main] Loggerload - [@stack] : Validation invalid python code for 'Operations in Stack' TryEditor
+[ERROR] 2023-05-08 00:43:24.552 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.583 [main] Loggerload - [@stack] : Validate 'Implementation' link
+[ERROR] 2023-05-08 00:43:24.588 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.621 [main] Loggerload - [@stack] : Validate  python code for 'Implementation' tryEditor
+[ERROR] 2023-05-08 00:43:24.635 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.675 [main] Loggerload - [@stack] : Validation invalid python code for 'Implementation' TryEditor
+[ERROR] 2023-05-08 00:43:24.680 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.701 [main] Loggerload - [@stack] : Validate 'Applications' link
+[ERROR] 2023-05-08 00:43:24.706 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.729 [main] Loggerload - [@stack] : Validate  python code for 'Applications' tryEditor
+[ERROR] 2023-05-08 00:43:24.734 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.760 [main] Loggerload - [@stack] : Validation invalid python code for 'Applications' TryEditor
+[ERROR] 2023-05-08 00:43:24.765 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.801 [main] Loggerload - [@Queue] : Validating the Queue page features
+[ERROR] 2023-05-08 00:43:24.809 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.830 [main] Loggerload - [@Queue] : Verifying valid code in the text editor - Implementation of Queue in Python
+[ERROR] 2023-05-08 00:43:24.865 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.892 [main] Loggerload - [@Queue] : Verifying invalid code in the text editor - Implementation of Queue in Python
+[ERROR] 2023-05-08 00:43:24.898 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.927 [main] Loggerload - [@Queue] : Validating Implementation using collections.deque and its features
+[ERROR] 2023-05-08 00:43:24.931 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:24.965 [main] Loggerload - [@Queue] : Verifying valid code in the text editor - Implementation using collections.deque
+[ERROR] 2023-05-08 00:43:25.016 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.047 [main] Loggerload - [@Queue] : Verifying invalid code in the text editor - Implementation using collections.deque
+[ERROR] 2023-05-08 00:43:25.054 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.083 [main] Loggerload - [@Queue] : Validating Implementation using array and its features
+[ERROR] 2023-05-08 00:43:25.089 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.115 [main] Loggerload - [@Queue] : Verifying valid code in the text editor - Implementation using array
+[ERROR] 2023-05-08 00:43:25.166 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.194 [main] Loggerload - [@Queue] : Verifying invalid code in the text editor - Implementation using array
+[ERROR] 2023-05-08 00:43:25.201 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.224 [main] Loggerload - [@Queue] : Validating Queue Operations and its features
+[ERROR] 2023-05-08 00:43:25.230 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.252 [main] Loggerload - [@Queue] : Verifying valid code in the text editor - Implementation using array
+[ERROR] 2023-05-08 00:43:25.301 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.352 [main] Loggerload - [@Queue] : Verifying invalid code in the text editor - Implementation using array
+[ERROR] 2023-05-08 00:43:25.359 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.406 [main] Loggerload - [@Tree] : Validating the Tree page features
+[ERROR] 2023-05-08 00:43:25.416 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.448 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Overview of Trees page
+[ERROR] 2023-05-08 00:43:25.518 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.538 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Overview of Trees page
+[ERROR] 2023-05-08 00:43:25.542 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.558 [main] Loggerload - [@Tree] : Validating Terminologies and its features
+[ERROR] 2023-05-08 00:43:25.561 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.575 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Terminologies page
+[ERROR] 2023-05-08 00:43:25.605 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.619 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Terminologies page
+[ERROR] 2023-05-08 00:43:25.623 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.638 [main] Loggerload - [@Tree] : Validating Types of Trees and its features
+[ERROR] 2023-05-08 00:43:25.641 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.663 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Types of Trees page
+[ERROR] 2023-05-08 00:43:25.699 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.715 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Types of Trees page
+[ERROR] 2023-05-08 00:43:25.719 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.732 [main] Loggerload - [@Tree] : Validating Tree Traversals and its features
+[ERROR] 2023-05-08 00:43:25.736 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.753 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Tree Traversals page
+[ERROR] 2023-05-08 00:43:25.802 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.823 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Tree Traversals page
+[ERROR] 2023-05-08 00:43:25.827 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.843 [main] Loggerload - [@Tree] : Validating Traversals-Illustration and its features
+[ERROR] 2023-05-08 00:43:25.847 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.863 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Traversals-Illustration page
+[ERROR] 2023-05-08 00:43:25.888 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.906 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Traversals-Illustration page
+[ERROR] 2023-05-08 00:43:25.910 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.925 [main] Loggerload - [@Tree] : Validating Binary Trees and its features
+[ERROR] 2023-05-08 00:43:25.928 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.944 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Binary Trees page
+[ERROR] 2023-05-08 00:43:25.971 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:25.987 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Binary Trees page
+[ERROR] 2023-05-08 00:43:25.991 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.016 [main] Loggerload - [@Tree] : Validating Types of Binary Trees and its features
+[ERROR] 2023-05-08 00:43:26.020 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.039 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Types of Binary Trees page
+[ERROR] 2023-05-08 00:43:26.061 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.080 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Types of Binary Trees page
+[ERROR] 2023-05-08 00:43:26.083 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.102 [main] Loggerload - [@Tree] : Validating Implementation in Python and its features
+[ERROR] 2023-05-08 00:43:26.105 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.122 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Implementation in Python page
+[ERROR] 2023-05-08 00:43:26.146 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.160 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Implementation in Python page
+[ERROR] 2023-05-08 00:43:26.163 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.182 [main] Loggerload - [@Tree] : Validating Binary Tree Traversals and its features
+[ERROR] 2023-05-08 00:43:26.186 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.204 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Binary Tree Traversals page
+[ERROR] 2023-05-08 00:43:26.232 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.251 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Binary Tree Traversals page
+[ERROR] 2023-05-08 00:43:26.255 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.269 [main] Loggerload - [@Tree] : Validating Implementation of Binary Trees and its features
+[ERROR] 2023-05-08 00:43:26.273 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.293 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Implementation of Binary Trees page
+[ERROR] 2023-05-08 00:43:26.317 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.331 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Implementation of Binary Trees page
+[ERROR] 2023-05-08 00:43:26.334 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.350 [main] Loggerload - [@Tree] : Validating Applications of Binary trees and its features
+[ERROR] 2023-05-08 00:43:26.355 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.369 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Applications of Binary trees page
+[ERROR] 2023-05-08 00:43:26.394 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.411 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Applications of Binary trees page
+[ERROR] 2023-05-08 00:43:26.414 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.430 [main] Loggerload - [@Tree] : Validating Binary Search Trees and its features
+[ERROR] 2023-05-08 00:43:26.435 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.452 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Binary Search Trees page
+[ERROR] 2023-05-08 00:43:26.476 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.495 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Binary Search Trees page
+[ERROR] 2023-05-08 00:43:26.499 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.520 [main] Loggerload - [@Tree] : Validating Implementation Of BST and its features
+[ERROR] 2023-05-08 00:43:26.524 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.547 [main] Loggerload - [@Tree] : Verifying valid code in the text editor - Implementation Of BST page
+[ERROR] 2023-05-08 00:43:26.575 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.593 [main] Loggerload - [@Tree] : Verifying invalid code in the text editor - Implementation Of BST page
+[ERROR] 2023-05-08 00:43:26.597 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.618 [main] Loggerload - [@graph] : Validate Graph page
+[ERROR] 2023-05-08 00:43:26.621 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.639 [main] Loggerload - [@graph] : Validate 'Graph' link
+[ERROR] 2023-05-08 00:43:26.647 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.666 [main] Loggerload - [@graph] : Validate 'Graph Representations' link
+[ERROR] 2023-05-08 00:43:26.670 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.689 [main] Loggerload - [@graph] : Validate  python code for 'Graph' tryEditor
+[ERROR] 2023-05-08 00:43:26.694 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.716 [main] Loggerload - [@graph] : Validation invalid python code for 'Graph' TryEditor
+[ERROR] 2023-05-08 00:43:26.719 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.733 [main] Loggerload - [@graph] : Validate  python code for 'Graph Representations' tryEditor
+[ERROR] 2023-05-08 00:43:26.737 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.756 [main] Loggerload - [@graph] : Validation invalid python code for 'Graph Representations' TryEditor
+[ERROR] 2023-05-08 00:43:26.758 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.770 [main] Loggerload - [@graph] : Validate Practice Question link
+[ERROR] 2023-05-08 00:43:26.774 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:43:26.783 [main] Loggerload - Closing the driver
+[INFO ] 2023-05-08 00:45:28.060 [main] Loggerload - Loading Config file
+[INFO ] 2023-05-08 00:45:28.065 [main] Loggerload - Testing in Chrome
+[INFO ] 2023-05-08 00:45:30.016 [main] Loggerload - Initializing driver for : chrome
+[INFO ] 2023-05-08 00:45:30.404 [main] Loggerload - [@Home] : The user should be able to open the Ds-Algo portal home page
+[INFO ] 2023-05-08 00:45:30.424 [main] Loggerload - User is on DS Algo portal page
+[INFO ] 2023-05-08 00:45:30.777 [main] Loggerload - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-05-08 00:45:31.135 [main] Loggerload - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-05-08 00:45:31.230 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:45:31.232 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:45:31.379 [main] Loggerload - click Get Startedlink on  DataStructures 
+[INFO ] 2023-05-08 00:45:31.662 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:45:31.691 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:45:31.692 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:45:31.811 [main] Loggerload - click Get Startedlink on Array 
+[INFO ] 2023-05-08 00:45:32.083 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:45:32.109 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:45:32.111 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:45:32.253 [main] Loggerload - click Get Startedlink on LinkedList
+[INFO ] 2023-05-08 00:45:32.570 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:45:32.616 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:45:32.618 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:45:32.766 [main] Loggerload - click Get Startedlink on stack
+[INFO ] 2023-05-08 00:45:33.070 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:45:33.097 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:45:33.099 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:45:33.235 [main] Loggerload - click Get Startedlink on queue 
+[INFO ] 2023-05-08 00:45:33.533 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:45:33.554 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:45:33.555 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:45:33.702 [main] Loggerload - click Get Startedlink on Tree 
+[INFO ] 2023-05-08 00:45:34.024 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:45:34.050 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:45:34.052 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:45:34.195 [main] Loggerload - click Get Startedlink on Graph 
+[INFO ] 2023-05-08 00:45:34.483 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:45:34.504 [main] Loggerload - [@Home] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-05-08 00:45:34.623 [main] Loggerload - User clicks on dropdown without login
+[INFO ] 2023-05-08 00:45:37.109 [main] Loggerload - [@Home] : User is on Home page and click on sign in
+[INFO ] 2023-05-08 00:45:37.219 [main] Loggerload - User clicks on Sign in 
+[INFO ] 2023-05-08 00:45:37.436 [main] Loggerload - Title of current page is : Login
+[INFO ] 2023-05-08 00:45:37.467 [main] Loggerload - [@Home] : User is on Home page and click on Register
+[INFO ] 2023-05-08 00:45:37.621 [main] Loggerload - User clicks on Register 
+[INFO ] 2023-05-08 00:45:37.844 [main] Loggerload - User redirected to Registraion page 
+[INFO ] 2023-05-08 00:45:37.857 [main] Loggerload - Title of current page is : Registration
+[INFO ] 2023-05-08 00:45:37.926 [main] Loggerload - [@Register] : Navigating  to register page from ds-algo portal
+[INFO ] 2023-05-08 00:45:38.338 [main] Loggerload - The user opens Register Page
+[INFO ] 2023-05-08 00:45:38.655 [main] Loggerload - [@Register] : Navigating to Login page from Register page
+[INFO ] 2023-05-08 00:45:39.248 [main] Loggerload - [@Register01] : Successful registration with valid username and password
+[INFO ] 2023-05-08 00:45:39.928 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:45:41.198 [main] Loggerload - User redirected to Homepage 
+[INFO ] 2023-05-08 00:45:41.236 [main] Loggerload - Title of current page is : password_mismatch:The two password fields didn’t match.
+[ERROR] 2023-05-08 00:45:41.252 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:45:41.448 [main] Loggerload - [@Register] : Validating registration with empty fields
+[INFO ] 2023-05-08 00:45:41.558 [main] Loggerload - The user do not enter any values
+[INFO ] 2023-05-08 00:45:41.558 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:45:41.749 [main] Loggerload - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-05-08 00:45:41.858 [main] Loggerload - [@Register] : Validating registration with valid username and empty password field
+[INFO ] 2023-05-08 00:45:42.094 [main] Loggerload - The user enter valid username with other fields empty
+[INFO ] 2023-05-08 00:45:42.094 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:45:42.159 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:45:43.289 [main] Loggerload - Error message is displayed Please fill out this field. an error below Password textbox
+[INFO ] 2023-05-08 00:45:43.434 [main] Loggerload - [@Register] : Validating registration with valid username, Password and empty password confirmation field
+[INFO ] 2023-05-08 00:45:43.577 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:45:43.713 [main] Loggerload - The user enter password as : temp12!@
+[INFO ] 2023-05-08 00:45:43.836 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:45:44.982 [main] Loggerload - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-05-08 00:45:45.051 [main] Loggerload - [@Register] : Validate password mismatch
+[INFO ] 2023-05-08 00:45:45.196 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:45:45.302 [main] Loggerload - The user enter password as : temp12!@
+[INFO ] 2023-05-08 00:45:45.430 [main] Loggerload - The user enter confirm password as : test1212
+[INFO ] 2023-05-08 00:45:45.548 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:45:46.833 [main] Loggerload - [@Register03] : Validating registration with valid Password, Password  confirmation field and empty Username field
+[INFO ] 2023-05-08 00:45:47.165 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:45:47.535 [main] Loggerload - [@Login] : Navigating to Login Page from ds algo portal
+[INFO ] 2023-05-08 00:45:50.133 [main] Loggerload - User is on Sigin Page
+[INFO ] 2023-05-08 00:45:50.165 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:45:52.215 [main] Loggerload - User Enter username as " utest_sdet03 "and Password as " test0000" 
+[INFO ] 2023-05-08 00:45:52.511 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:45:52.511 [main] Loggerload - Expected Message - Excel Sheet :  Invalid Username and Password
+[INFO ] 2023-05-08 00:45:54.808 [main] Loggerload - Actual Message :  Invalid Username and Password
+[INFO ] 2023-05-08 00:45:54.862 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:45:55.117 [main] Loggerload - User Enter username as " username "and Password as " Temp12!@" 
+[INFO ] 2023-05-08 00:45:55.348 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:45:55.348 [main] Loggerload - Expected Message - Excel Sheet :  Invalid Username and Password
+[INFO ] 2023-05-08 00:45:57.629 [main] Loggerload - Actual Message :  Invalid Username and Password
+[INFO ] 2023-05-08 00:45:57.674 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:45:57.932 [main] Loggerload - User Enter username as " utest_sdet00 "and Password as " temp12!@" 
+[INFO ] 2023-05-08 00:45:58.230 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:45:58.230 [main] Loggerload - Expected Message - Excel Sheet :  You are logged in
+[ERROR] 2023-05-08 00:46:10.593 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:10.814 [main] Loggerload - [@Login] : Validating Login with either of the password and username fields empty
+[INFO ] 2023-05-08 00:46:10.919 [main] Loggerload - User Enter username as " user_sdet00 " and Password as " " 
+[INFO ] 2023-05-08 00:46:11.203 [main] Loggerload - Empty field value is validated
+[INFO ] 2023-05-08 00:46:11.205 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:46:11.295 [main] Loggerload - [@Login] : Validating Login with either of the password and username fields empty
+[INFO ] 2023-05-08 00:46:11.409 [main] Loggerload - User Enter username as "  " and Password as " temp12!@" 
+[INFO ] 2023-05-08 00:46:11.709 [main] Loggerload - Empty field value is validated
+[INFO ] 2023-05-08 00:46:11.709 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:46:11.828 [main] Loggerload - [@Login] : Validating signout
+[ERROR] 2023-05-08 00:46:22.053 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:22.283 [main] Loggerload - [@DataIntro] : Validating the Data Structure Introduction page feature
+[INFO ] 2023-05-08 00:46:23.107 [main] Loggerload - The user is in SignIn page
+[INFO ] 2023-05-08 00:46:23.459 [main] Loggerload - User clicks on login button
+[ERROR] 2023-05-08 00:46:34.172 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:34.643 [main] Loggerload - [@array01] : Validate Array page
+[INFO ] 2023-05-08 00:46:35.219 [main] Loggerload - Clicking on Get Started button from logged in HomePage
+[ERROR] 2023-05-08 00:46:35.262 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:35.509 [main] Loggerload - [@array01] : Validate 'Arrays in Python' link
+[INFO ] 2023-05-08 00:46:36.194 [main] Loggerload - Launching Array page
+[ERROR] 2023-05-08 00:46:37.709 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:37.759 [main] Loggerload - [@array01] : Validate 'Arrays Using List' link
+[ERROR] 2023-05-08 00:46:37.782 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:37.808 [main] Loggerload - [@array01] : Validate 'Basic Operations in List' link
+[ERROR] 2023-05-08 00:46:37.818 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:37.849 [main] Loggerload - [@array01] : Validate 'Applications of Array' link
+[ERROR] 2023-05-08 00:46:37.857 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:37.898 [main] Loggerload - [@array01] : Validate  python code for Arrays in Python TryEditor
+[ERROR] 2023-05-08 00:46:37.906 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:37.951 [main] Loggerload - [@array01] : Validation invalid python code for Arrays in Python TryEditor
+[ERROR] 2023-05-08 00:46:37.960 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:38.002 [main] Loggerload - [@array01] : Validate  python code for Arrays using List TryEditor
+[ERROR] 2023-05-08 00:46:38.018 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:38.066 [main] Loggerload - [@array01] : Validation invalid python code for Arrays using List TryEditor
+[ERROR] 2023-05-08 00:46:38.074 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:38.319 [main] Loggerload - [@array01] : Validate  python code for Basic Operations in List TryEditor
+[ERROR] 2023-05-08 00:46:38.332 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:38.586 [main] Loggerload - [@array01] : Validation invalid python code for Basic operations in List TryEditor
+[ERROR] 2023-05-08 00:46:38.601 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:38.734 [main] Loggerload - [@array01] : Validate  python code for Applications of Array TryEditor
+[ERROR] 2023-05-08 00:46:38.761 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:38.927 [main] Loggerload - [@array01] : Validation invalid python code for Applications of Array TryEditor
+[ERROR] 2023-05-08 00:46:39.046 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:39.187 [main] Loggerload - [@array01] : Validate 'Practice Questions' link
+[ERROR] 2023-05-08 00:46:39.201 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:39.360 [main] Loggerload - [@array01] : Validate TryEditor for 'Search for array' in Practice Questions
+[ERROR] 2023-05-08 00:46:39.399 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:39.503 [main] Loggerload - [@array01] : Validate TryEditor for 'Max consecutive ones' in Practice Questions
+[ERROR] 2023-05-08 00:46:39.519 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:39.607 [main] Loggerload - [@array01] : Validate TryEditor for 'Find Numbers with Even number of digits' in Practice Questions
+[ERROR] 2023-05-08 00:46:39.640 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:39.672 [main] Loggerload - [@array01] : Validate TryEditor for 'Squares of a sorted array' in Practice Questions
+[ERROR] 2023-05-08 00:46:39.680 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:39.818 [main] Loggerload - [@LinkedList01] : Validating the Linked List page features
+[ERROR] 2023-05-08 00:46:39.834 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:39.912 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor - Intro page
+[ERROR] 2023-05-08 00:46:40.194 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:40.234 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor - Intro page
+[ERROR] 2023-05-08 00:46:40.266 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:40.347 [main] Loggerload - [@LinkedList01] : Validating Creating Linked List link and its features
+[ERROR] 2023-05-08 00:46:40.355 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:40.518 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Creating Linked List -  page
+[ERROR] 2023-05-08 00:46:40.664 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:40.690 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Creating Linked List -  page
+[ERROR] 2023-05-08 00:46:40.698 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:40.721 [main] Loggerload - [@LinkedList01] : Validating Types of Linked List link and its features
+[ERROR] 2023-05-08 00:46:40.728 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:40.759 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Types of Linked List -  page
+[ERROR] 2023-05-08 00:46:41.058 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:41.092 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Types of Linked List -  page
+[ERROR] 2023-05-08 00:46:41.098 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:41.228 [main] Loggerload - [@LinkedList01] : Validating Implement Linked List in Python link and its features
+[ERROR] 2023-05-08 00:46:41.236 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:41.254 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Implement Linked List in Python page
+[ERROR] 2023-05-08 00:46:41.518 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:41.542 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Implement Linked List in Python page
+[ERROR] 2023-05-08 00:46:41.550 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:41.573 [main] Loggerload - [@LinkedList01] : Validating Traversal link and its features
+[ERROR] 2023-05-08 00:46:41.574 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:41.704 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Traversal page
+[ERROR] 2023-05-08 00:46:41.869 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:41.891 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Traversal page
+[ERROR] 2023-05-08 00:46:41.891 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:41.915 [main] Loggerload - [@LinkedList01] : Validating Insertion link and its features
+[ERROR] 2023-05-08 00:46:41.915 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:41.947 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Insertion page
+[ERROR] 2023-05-08 00:46:42.132 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:42.173 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Insertion page
+[ERROR] 2023-05-08 00:46:42.173 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:42.286 [main] Loggerload - [@LinkedList01] : Validating Deletion link and its features
+[ERROR] 2023-05-08 00:46:42.294 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:42.319 [main] Loggerload - [@LinkedList01] : Verifying valid code in the text editor in Deletion page
+[ERROR] 2023-05-08 00:46:42.367 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:42.401 [main] Loggerload - [@LinkedList01] : Verifying invalid code in the text editor in Deletion page
+[ERROR] 2023-05-08 00:46:42.409 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:42.522 [main] Loggerload - [@stack] : Validate Stack page
+[ERROR] 2023-05-08 00:46:42.528 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:42.546 [main] Loggerload - [@stack] : Validate 'Operations in Stack' link
+[ERROR] 2023-05-08 00:46:42.554 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:46:42.579 [main] Loggerload - [@stack] : Validate  python code for 'Operations in Stack' tryEditor
+[INFO ] 2023-05-08 00:47:15.789 [main] Loggerload - Loading Config file
+[INFO ] 2023-05-08 00:47:15.794 [main] Loggerload - Testing in Chrome
+[INFO ] 2023-05-08 00:47:17.623 [main] Loggerload - Initializing driver for : chrome
+[INFO ] 2023-05-08 00:47:18.004 [main] Loggerload - [@Home] : The user should be able to open the Ds-Algo portal home page
+[INFO ] 2023-05-08 00:47:18.028 [main] Loggerload - User is on DS Algo portal page
+[INFO ] 2023-05-08 00:47:18.378 [main] Loggerload - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-05-08 00:47:18.724 [main] Loggerload - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-05-08 00:47:18.846 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:47:18.847 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:47:18.982 [main] Loggerload - click Get Startedlink on  DataStructures 
+[INFO ] 2023-05-08 00:47:19.261 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:47:19.298 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:47:19.299 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:47:19.428 [main] Loggerload - click Get Startedlink on Array 
+[INFO ] 2023-05-08 00:47:19.685 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:47:19.709 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:47:19.710 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:47:19.825 [main] Loggerload - click Get Startedlink on LinkedList
+[INFO ] 2023-05-08 00:47:20.120 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:47:20.144 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:47:20.146 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:47:20.307 [main] Loggerload - click Get Startedlink on stack
+[INFO ] 2023-05-08 00:47:20.624 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:47:20.648 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:47:20.650 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:47:20.805 [main] Loggerload - click Get Startedlink on queue 
+[INFO ] 2023-05-08 00:47:21.092 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:47:21.134 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:47:21.137 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:47:21.313 [main] Loggerload - click Get Startedlink on Tree 
+[INFO ] 2023-05-08 00:47:21.655 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:47:21.673 [main] Loggerload - [@Home] : User is on Home page and click getstarted button on home page without sign in
+[INFO ] 2023-05-08 00:47:21.674 [main] Loggerload - User is in Home page
+[INFO ] 2023-05-08 00:47:21.825 [main] Loggerload - click Get Startedlink on Graph 
+[INFO ] 2023-05-08 00:47:22.109 [main] Loggerload - Actual Message : You are not logged in
+[INFO ] 2023-05-08 00:47:22.154 [main] Loggerload - [@Home] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-05-08 00:47:22.299 [main] Loggerload - User clicks on dropdown without login
+[INFO ] 2023-05-08 00:47:24.793 [main] Loggerload - [@Home] : User is on Home page and click on sign in
+[INFO ] 2023-05-08 00:47:24.967 [main] Loggerload - User clicks on Sign in 
+[INFO ] 2023-05-08 00:47:25.235 [main] Loggerload - Title of current page is : Login
+[INFO ] 2023-05-08 00:47:25.314 [main] Loggerload - [@Home] : User is on Home page and click on Register
+[INFO ] 2023-05-08 00:47:25.500 [main] Loggerload - User clicks on Register 
+[INFO ] 2023-05-08 00:47:25.718 [main] Loggerload - User redirected to Registraion page 
+[INFO ] 2023-05-08 00:47:25.734 [main] Loggerload - Title of current page is : Registration
+[INFO ] 2023-05-08 00:47:25.844 [main] Loggerload - [@Register] : Navigating  to register page from ds-algo portal
+[INFO ] 2023-05-08 00:47:26.344 [main] Loggerload - The user opens Register Page
+[INFO ] 2023-05-08 00:47:26.712 [main] Loggerload - [@Register] : Navigating to Login page from Register page
+[INFO ] 2023-05-08 00:47:27.195 [main] Loggerload - [@Register01] : Successful registration with valid username and password
+[INFO ] 2023-05-08 00:47:27.780 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:47:29.180 [main] Loggerload - User redirected to Homepage 
+[INFO ] 2023-05-08 00:47:29.204 [main] Loggerload - Title of current page is : password_mismatch:The two password fields didn’t match.
+[ERROR] 2023-05-08 00:47:29.235 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:29.437 [main] Loggerload - [@Register] : Validating registration with empty fields
+[INFO ] 2023-05-08 00:47:29.654 [main] Loggerload - The user do not enter any values
+[INFO ] 2023-05-08 00:47:29.654 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:47:29.800 [main] Loggerload - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-05-08 00:47:29.998 [main] Loggerload - [@Register] : Validating registration with valid username and empty password field
+[INFO ] 2023-05-08 00:47:30.114 [main] Loggerload - The user enter valid username with other fields empty
+[INFO ] 2023-05-08 00:47:30.114 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:47:30.232 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:47:31.391 [main] Loggerload - Error message is displayed Please fill out this field. an error below Password textbox
+[INFO ] 2023-05-08 00:47:31.615 [main] Loggerload - [@Register] : Validating registration with valid username, Password and empty password confirmation field
+[INFO ] 2023-05-08 00:47:31.760 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:47:31.832 [main] Loggerload - The user enter password as : temp12!@
+[INFO ] 2023-05-08 00:47:31.918 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:47:33.044 [main] Loggerload - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-05-08 00:47:33.132 [main] Loggerload - [@Register] : Validate password mismatch
+[INFO ] 2023-05-08 00:47:33.298 [main] Loggerload - The user enter username as : utest_sdet
+[INFO ] 2023-05-08 00:47:33.392 [main] Loggerload - The user enter password as : temp12!@
+[INFO ] 2023-05-08 00:47:33.486 [main] Loggerload - The user enter confirm password as : test1212
+[INFO ] 2023-05-08 00:47:33.559 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:47:34.864 [main] Loggerload - [@Register03] : Validating registration with valid Password, Password  confirmation field and empty Username field
+[INFO ] 2023-05-08 00:47:35.293 [main] Loggerload - The user clicks on the Register button
+[INFO ] 2023-05-08 00:47:35.553 [main] Loggerload - [@Login] : Navigating to Login Page from ds algo portal
+[INFO ] 2023-05-08 00:47:38.123 [main] Loggerload - User is on Sigin Page
+[INFO ] 2023-05-08 00:47:38.155 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:47:40.482 [main] Loggerload - User Enter username as " utest_sdet03 "and Password as " test0000" 
+[INFO ] 2023-05-08 00:47:40.769 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:47:40.769 [main] Loggerload - Expected Message - Excel Sheet :  Invalid Username and Password
+[INFO ] 2023-05-08 00:47:43.085 [main] Loggerload - Actual Message :  Invalid Username and Password
+[INFO ] 2023-05-08 00:47:43.132 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:47:43.381 [main] Loggerload - User Enter username as " username "and Password as " Temp12!@" 
+[INFO ] 2023-05-08 00:47:43.627 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:47:43.627 [main] Loggerload - Expected Message - Excel Sheet :  Invalid Username and Password
+[INFO ] 2023-05-08 00:47:45.935 [main] Loggerload - Actual Message :  Invalid Username and Password
+[INFO ] 2023-05-08 00:47:45.956 [main] Loggerload - [@Login01] : Validating Login with valid and invalid credentials
+[INFO ] 2023-05-08 00:47:46.171 [main] Loggerload - User Enter username as " utest_sdet00 "and Password as " temp12!@" 
+[INFO ] 2023-05-08 00:47:46.434 [main] Loggerload - User clicks on login button
+[INFO ] 2023-05-08 00:47:46.434 [main] Loggerload - Expected Message - Excel Sheet :  You are logged in
+[ERROR] 2023-05-08 00:47:50.081 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:50.145 [main] Loggerload - [@Login] : Validating Login with either of the password and username fields empty
+[ERROR] 2023-05-08 00:47:50.154 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:50.194 [main] Loggerload - [@Login] : Validating Login with either of the password and username fields empty
+[ERROR] 2023-05-08 00:47:50.211 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:50.243 [main] Loggerload - [@Login] : Validating signout
+[ERROR] 2023-05-08 00:47:50.243 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:50.299 [main] Loggerload - [@DataIntro] : Validating the Data Structure Introduction page feature
+[ERROR] 2023-05-08 00:47:50.316 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:50.527 [main] Loggerload - [@array01] : Validate Array page
+[ERROR] 2023-05-08 00:47:50.541 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:50.573 [main] Loggerload - [@array01] : Validate 'Arrays in Python' link
+[ERROR] 2023-05-08 00:47:50.589 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:50.654 [main] Loggerload - [@array01] : Validate 'Arrays Using List' link
+[ERROR] 2023-05-08 00:47:50.670 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:50.871 [main] Loggerload - [@array01] : Validate 'Basic Operations in List' link
+[ERROR] 2023-05-08 00:47:50.880 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:50.921 [main] Loggerload - [@array01] : Validate 'Applications of Array' link
+[ERROR] 2023-05-08 00:47:51.023 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:51.288 [main] Loggerload - [@array01] : Validate  python code for Arrays in Python TryEditor
+[ERROR] 2023-05-08 00:47:51.344 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:51.392 [main] Loggerload - [@array01] : Validation invalid python code for Arrays in Python TryEditor
+[ERROR] 2023-05-08 00:47:51.400 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:51.456 [main] Loggerload - [@array01] : Validate  python code for Arrays using List TryEditor
+[ERROR] 2023-05-08 00:47:51.464 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:51.528 [main] Loggerload - [@array01] : Validation invalid python code for Arrays using List TryEditor
+[ERROR] 2023-05-08 00:47:51.568 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:51.770 [main] Loggerload - [@array01] : Validate  python code for Basic Operations in List TryEditor
+[ERROR] 2023-05-08 00:47:51.778 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:51.814 [main] Loggerload - [@array01] : Validation invalid python code for Basic operations in List TryEditor
+[ERROR] 2023-05-08 00:47:51.819 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:51.916 [main] Loggerload - [@array01] : Validate  python code for Applications of Array TryEditor
+[ERROR] 2023-05-08 00:47:51.924 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:51.965 [main] Loggerload - [@array01] : Validation invalid python code for Applications of Array TryEditor
+[ERROR] 2023-05-08 00:47:52.076 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:52.301 [main] Loggerload - [@array01] : Validate 'Practice Questions' link
+[ERROR] 2023-05-08 00:47:52.362 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:52.427 [main] Loggerload - [@array01] : Validate TryEditor for 'Search for array' in Practice Questions
+[ERROR] 2023-05-08 00:47:52.524 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:52.645 [main] Loggerload - [@array01] : Validate TryEditor for 'Max consecutive ones' in Practice Questions
+[ERROR] 2023-05-08 00:47:52.652 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:52.930 [main] Loggerload - [@array01] : Validate TryEditor for 'Find Numbers with Even number of digits' in Practice Questions
+[ERROR] 2023-05-08 00:47:52.938 [main] Loggerload - Steps Failed , Taking Screenshot
+[INFO ] 2023-05-08 00:47:52.978 [main] Loggerload - [@array01] : Validate TryEditor for 'Squares of a sorted array' in Practice Questions
+[ERROR] 2023-05-08 00:47:52.978 [main] Loggerload - Steps Failed , Taking Screenshot
