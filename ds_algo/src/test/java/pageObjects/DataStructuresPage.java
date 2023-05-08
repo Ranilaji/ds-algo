@@ -1,5 +1,6 @@
 package pageObjects;
 
+import java.time.Duration;
 import java.util.List;
 
 import org.openqa.selenium.JavascriptExecutor;
@@ -55,7 +56,7 @@ public class DataStructuresPage {
 	@CacheLookup
 	WebElement TCRunBtn1;
 	
-	@FindBy(xpath="//form[@id='answer_form']/div/div/div/textarea")
+	@FindBy(xpath ="//form/div/div/div/textarea")
 	@CacheLookup
 	WebElement InputTextArea;
 	
@@ -125,6 +126,8 @@ public class DataStructuresPage {
 	
 	
 	public void enterCode(DataTable testCode) {
+			//InputTextArea.clear();
+			//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 			List<List<String>> data = testCode.asLists();
 			InputTextArea.sendKeys(data.get(0).get(0));		
 	}

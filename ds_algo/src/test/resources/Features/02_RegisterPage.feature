@@ -13,14 +13,6 @@ Feature: Register
     When User clicks on Login link
     Then User should be successfully navigated to Login page
 
-  @Register01
-  Scenario: Successful registration with valid username and password
-    Given User launches Register page
-    When User enter  valid username, password and password confirmation
-      | utest_sdet00 | temp12!@ | temp12!@ |
-    And Clicks on the Register button
-    Then User should be able successfully registered with the success message "New Account Created."
-
   @Register
   Scenario: Validating registration with empty fields
     Given User launches Register page

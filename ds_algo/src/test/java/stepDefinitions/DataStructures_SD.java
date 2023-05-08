@@ -98,7 +98,7 @@ public class DataStructures_SD {
 
 	@And("User enters valid python code")
 	public void user_enters_valid_python_code(io.cucumber.datatable.DataTable code) throws InterruptedException {
-		
+	
 		dsintropage.enterCode(code);
 		dsintropage.clkTCRunBtn();
 		Thread.sleep(1000);

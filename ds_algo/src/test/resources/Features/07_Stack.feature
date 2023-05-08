@@ -1,11 +1,5 @@
 
 Feature: Stack
-#@stack
-  #Scenario: 
-    #Given The user is on Signin page of DS Algo portal
-    #When The user enter valid username "utest_sdet00" and password "temp12!@"
-    #Then The user clicks on login button
-
 
   @stack
   Scenario: Validate Stack page

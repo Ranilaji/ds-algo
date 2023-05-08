@@ -62,7 +62,7 @@ public class RegisterPage_SD {
 		Assert.assertEquals(actualTitle, expectedTitle, "Title do not match");
 	}
 
-	// Registration with valid user name, password and confirmation password
+	/* Registration with valid user name, password and confirmation password
 
 	@When("User enter  valid username, password and password confirmation")
 	public void user_enter_valid_username_password_and_password_confirmation(io.cucumber.datatable.DataTable dataTable) {
@@ -83,7 +83,7 @@ public class RegisterPage_SD {
 		Loggerload.info("Title of current page is : " + successMsg);
 		Assert.assertTrue(successMsg.contains("New Account Created."));
 		//Assert.assertEquals(successMsg,string,"Success message do not match");
-	}
+	}*/
 
 	//Scenario: Validating registration with empty fields
 

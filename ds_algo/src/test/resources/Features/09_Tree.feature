@@ -1,11 +1,5 @@
 Feature: Validating the Tree page and its features
 
-  #@Tree
-  #Scenario: The user is logged in to DS Algo portal
-   # Given The user is on Signin page of DS Algo portal
-    #When The user enter valid username "utest_sdet00" and password "temp12!@"
-    #Then The user clicks on login button
-
   @Tree
   Scenario: Validating the Tree page features
     When User clicks on the Get Started button inside Tree frame

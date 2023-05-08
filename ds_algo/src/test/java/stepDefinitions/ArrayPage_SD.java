@@ -50,8 +50,9 @@ public class ArrayPage_SD {
 	}
 
 	@When("User clicks on Arrays in Python link")
-	public void user_clicks_on_arrays_in_python_link() {
+	public void user_clicks_on_arrays_in_python_link() throws InterruptedException {
 	   ar.clickArraysInPython();
+	   Thread.sleep(1000);
 	}
 	
 	@Then("User is navigated to the Arrays in Python page")

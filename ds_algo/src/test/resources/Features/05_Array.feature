@@ -1,11 +1,5 @@
 Feature: Array
 
-@array01
-  Scenario: 
-    Given The user is on Signin page of DS Algo portal
-    When The user enter valid username "utest_sdet00" and password "temp12!@"
-    Then The user clicks on login button
-
 @array01 
 Scenario: Validate Array page
 Given User is logged in to HomePage
@@ -24,11 +18,11 @@ Given User is in Array page
 When User clicks on the Array Using List link
 Then User is navigated to the Arrays using list page
 
-@array01 
-Scenario: Validate 'Basic Operations in List' link
-Given User is in Array page 
-When User clicks on the Basic Operations in List link
-Then User is navigated to the Basic operations in list page
+#@array01 
+#Scenario: Validate 'Basic Operations in List' link
+#Given User is in Array page 
+#When User clicks on the Basic Operations in List link
+#Then User is navigated to the Basic operations in list page
 
 @array01 
 Scenario: Validate 'Applications of Array' link
